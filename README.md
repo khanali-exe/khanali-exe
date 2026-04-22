@@ -1,16 +1,21 @@
-## Hi there 👋
+Hey, I'm Ali 👋
+Full-stack developer specializing in AI-integrated web applications.
+I build and ship production apps using Claude, GPT-4, Next.js, and FastAPI.
 
-<!--
-**khanali-exe/khanali-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I've shipped
+🔧 Explain My Error — AI error debugging tool that delivers instant root-cause analysis for programming errors
+Claude API · Next.js 15 · React 19 · Tailwind CSS · Vercel
+📰 AI Intelligence Hub — Automated AI news aggregator with a GPT-4o-mini fact-checking pipeline
+FastAPI · Celery · PostgreSQL · Redis · Next.js · Hetzner VPS
+💬 RBI RAG Chatbot — RAG system for semantic search over financial documents
+ChromaDB · Sentence Transformers · Gemini Pro · Chainlit
 
-Here are some ideas to get you started:
+Currently
+🎓 Graduating from York University (Computer Science) — 2026
+🔍 Looking for full-time roles in AI engineering / full-stack development
+✍️ Writing about AI on Medium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack
+Python TypeScript Next.js React FastAPI Claude API OpenAI GPT-4 RAG ChromaDB PostgreSQL Redis Celery Docker Vercel
+
+📫 Let's connect: khxnali@my.yorku.ca · LinkedIn
