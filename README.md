@@ -5,8 +5,10 @@ I build and ship production apps using Claude, GPT-4, Next.js, and FastAPI.
 What I've shipped
 🔧 Explain My Error — AI error debugging tool that delivers instant root-cause analysis for programming errors
 Claude API · Next.js 15 · React 19 · Tailwind CSS · Vercel
+
 📰 AI Intelligence Hub — Automated AI news aggregator with a GPT-4o-mini fact-checking pipeline
 FastAPI · Celery · PostgreSQL · Redis · Next.js · Hetzner VPS
+
 💬 RBI RAG Chatbot — RAG system for semantic search over financial documents
 ChromaDB · Sentence Transformers · Gemini Pro · Chainlit
 
